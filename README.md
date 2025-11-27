@@ -40,7 +40,10 @@ Geographic visualisation:
 
 With geographic visualisation, buyers and agents can locate hotspots and support location-based decisions relative to CBD proximity.
 
-Users can filter by locality, year, land area, and price to explore how demand and pricing vary across Sydney and surrounding regions, and to compare hotspots by distance to the CBD. This page is designed to complement the overview dashboard by providing a geographic lens on total sales, median prices, and demand concentration, helping homebuyers and agents identify where to buy or sell based on budget and preferred location.
+- Users can filter by locality, year, land area, and price to explore how demand and pricing vary across Sydney and surrounding regions, and to compare hotspots by distance to the CBD.
+  
+- This page is designed to complement the overview dashboard by providing a geographic lens on total sales, median prices, and demand concentration, helping homebuyers and agents identify where to buy or sell based on budget and preferred location.
+
 
 
 
